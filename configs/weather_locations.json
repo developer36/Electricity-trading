@@ -1,0 +1,21 @@
+{
+  "description": "山东16地级市中心附近代表点，等权均值为基线代理，不代表全省面积/负荷/装机加权天气。坐标为WGS84近似值，API会映射到ERA5网格。",
+  "locations": [
+    {"id": "jinan", "name": "济南", "latitude": 36.65, "longitude": 117.12},
+    {"id": "qingdao", "name": "青岛", "latitude": 36.07, "longitude": 120.38},
+    {"id": "zibo", "name": "淄博", "latitude": 36.81, "longitude": 118.05},
+    {"id": "zaozhuang", "name": "枣庄", "latitude": 34.81, "longitude": 117.32},
+    {"id": "dongying", "name": "东营", "latitude": 37.43, "longitude": 118.67},
+    {"id": "yantai", "name": "烟台", "latitude": 37.46, "longitude": 121.45},
+    {"id": "weifang", "name": "潍坊", "latitude": 36.71, "longitude": 119.16},
+    {"id": "jining", "name": "济宁", "latitude": 35.42, "longitude": 116.59},
+    {"id": "taian", "name": "泰安", "latitude": 36.20, "longitude": 117.09},
+    {"id": "weihai", "name": "威海", "latitude": 37.51, "longitude": 122.12},
+    {"id": "rizhao", "name": "日照", "latitude": 35.42, "longitude": 119.53},
+    {"id": "linyi", "name": "临沂", "latitude": 35.10, "longitude": 118.35},
+    {"id": "dezhou", "name": "德州", "latitude": 37.44, "longitude": 116.36},
+    {"id": "liaocheng", "name": "聊城", "latitude": 36.46, "longitude": 115.99},
+    {"id": "binzhou", "name": "滨州", "latitude": 37.38, "longitude": 117.97},
+    {"id": "heze", "name": "菏泽", "latitude": 35.23, "longitude": 115.48}
+  ]
+}

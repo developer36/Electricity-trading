@@ -1,0 +1,14 @@
+{
+  "test_start": "2025-07-01",
+  "test_end": "2025-12-30",
+  "history_days": 7,
+  "prediction_length": 24,
+  "threads": 2,
+  "seed": 42,
+  "batch_size": 8,
+  "models": {
+    "Chronos-2": "amazon/chronos-2",
+    "Timestral": "mistralai/Timestral-209M",
+    "TiRex-2": "NX-AI/TiRex-2"
+  }
+}

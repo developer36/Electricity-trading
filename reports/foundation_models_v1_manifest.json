@@ -1,0 +1,37 @@
+{
+  "Chronos-2": {
+    "repo": "amazon/chronos-2",
+    "revision": "29ec3766d36d6f73f0696f85560a422f50e8498c",
+    "local_path": "/Users/wxd/Projects/电力交易/Electricity-trading/data/model_cache/hub/models--amazon--chronos-2/snapshots/29ec3766d36d6f73f0696f85560a422f50e8498c",
+    "sha256": {
+      "model.safetensors": "ddcda3c7508bf2528087723e98a20707cc04b7f370ae275a9fd88078ddba4f42",
+      "config.json": "ef1143bfdc9c0376d9a056eefca46cb4b1ec3d0ffacd541ff56feb40fb708031",
+      "README.md": "c7b29bc88f5bc3ebc6e7213b6353be80090d671fefa4aa74ed20498838c16558"
+    }
+  },
+  "Timestral": {
+    "repo": "mistralai/Timestral-209M",
+    "revision": "9874d252ab0aae16f7f7c999f98f98d6ad7d8365",
+    "local_path": "/Users/wxd/Projects/电力交易/Electricity-trading/data/model_cache/hub/models--mistralai--Timestral-209M/snapshots/9874d252ab0aae16f7f7c999f98f98d6ad7d8365",
+    "sha256": {
+      "model.safetensors": "1456effb9927e3daa8c7234f10497e3424233869245a9c72b8ecebaf7ad2b7fa",
+      "LICENSE": "648194727930df730890e9f9affdbcc5c930d406d6829559b25ca3d5a973fc8c",
+      "config.json": "1764139bb6d37ee5ff543f470495c086cfa6c373f7134fc61c7e3d844538bfd8",
+      "README.md": "f85a2083f1bbb039b3fde4dfd0426ef5af3c1d9ee4cfb4afc3be742336ba64d5"
+    }
+  },
+  "TiRex-2": {
+    "repo": "NX-AI/TiRex-2",
+    "revision": "30788a311699acba7e6393ad9700ea7b7cb9bb2d",
+    "local_path": "/Users/wxd/Projects/电力交易/Electricity-trading/data/model_cache/hub/models--NX-AI--TiRex-2/snapshots/30788a311699acba7e6393ad9700ea7b7cb9bb2d",
+    "sha256": {
+      "model.safetensors": "17760e4eee4c14e0d8bad8b9d9ce6f5076aaeeb9d956a88b8e95cf1493a1c176",
+      "model-config.yaml": "cddbe6d0be4919cb7b0cad747fb19a295264e129d1c0790cf62133b4cb5da727",
+      "LICENSE": "a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9",
+      "config.json": "e591152ebc5bd7245b5258cd26a52b57c1f6cfe60d6743111856ab0b12f7425e",
+      "NOTICE": "e00534420d17a0305afcd15982a9ef0c30a421d9e3f7ad22e70a7ff5018c0b74",
+      "README.md": "ec10f277ff820fb8915b4ff3988916c25bc892167902aba84bb9bfe24d190b70",
+      "model.ckpt": "184b160ffbe4c01a26beeba14015ff3507c7497e1f3577114187bbc1d19fcac1"
+    }
+  }
+}

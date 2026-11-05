@@ -1,0 +1,15 @@
+{
+  "test_start": "2025-07-01",
+  "test_end": "2025-12-30",
+  "history_days": 7,
+  "prediction_length": 24,
+  "threads": 2,
+  "seed": 42,
+  "batch_size": 8,
+  "models": {
+    "Timestral-5M": "mistralai/Timestral-5M",
+    "Timestral-28M": "mistralai/Timestral-28M",
+    "Timestral-123M": "mistralai/Timestral-123M",
+    "Timestral-209M": "mistralai/Timestral-209M"
+  }
+}

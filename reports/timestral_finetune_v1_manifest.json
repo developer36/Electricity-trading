@@ -1,0 +1,11 @@
+{
+  "repo": "mistralai/Timestral-28M",
+  "revision": "49b26409ac87b5935539a5d8ffe7f397b720db47",
+  "local_path": "/Users/wxd/Projects/电力交易/Electricity-trading/data/model_cache/hub/models--mistralai--Timestral-28M/snapshots/49b26409ac87b5935539a5d8ffe7f397b720db47",
+  "sha256": {
+    "model.safetensors": "dfc83c6220937ce5fc6687b35a4df94cd25e28a2cfe6fb92a23dad6301b2015d",
+    "LICENSE": "648194727930df730890e9f9affdbcc5c930d406d6829559b25ca3d5a973fc8c",
+    "config.json": "0cdf44b8ea981191de53078e0a5ecbbd437046bd939a546d5dbe17868f71281f",
+    "README.md": "4e4fbb532f45c07c8537a8fe25cb666084435f70caf13ea45f20f9161d7894d7"
+  }
+}
